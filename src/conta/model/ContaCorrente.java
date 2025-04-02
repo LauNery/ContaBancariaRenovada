@@ -17,7 +17,7 @@ public class ContaCorrente extends Conta{
 		this.limite = limite;
 	}
 	
-	public boolean transferencia(float valor) {
+	public boolean sacar(float valor) {
 		
 		if(this.getSaldo() + this.getLimite() < valor) {
 			System.out.println("\nSaldo Devedor! ");

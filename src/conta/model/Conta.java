@@ -67,7 +67,7 @@ public abstract class Conta {
 			return true;
 		}
 		
-		public boolean transferencia(Float valor) {
+		public boolean sacar(Float valor) {
 			if(this.getSaldo() < valor) {
 				return false;
 			}
