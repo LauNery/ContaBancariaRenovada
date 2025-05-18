@@ -1,10 +1,4 @@
-# ✨🌟 Sistema de Contas Bancárias em Java 🌟✨
-
-<div align="center">
-⠀⠀⠀⠀  
-  ⠀⠀⠀⠀   ✨ SISTEMA DE CONTAS BANCÁRIAS ✨    ⠀      ⠀  
-
-</div>
+# ✨🌟 Sistema de Contas Bancárias 🌟✨
 
 ---
 
