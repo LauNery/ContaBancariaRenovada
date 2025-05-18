@@ -18,11 +18,15 @@ Inclui diferentes tipos de contas: **Conta Corrente** e **Conta Poupança**, com
 
 ---
 
+
 ## 🚀 Como Usar
 
 ### 1️⃣ Criando contas
 ### 2️⃣ Realizando operações
 ### 3️⃣ Visualizando detalhes
+
+
+---
 
 ## ⚠️ Observações Importantes
 
@@ -30,11 +34,13 @@ Inclui diferentes tipos de contas: **Conta Corrente** e **Conta Poupança**, com
 > Projeto realizado para estudos no BootCamp da Generation Brasil.
 > Pode ser expandido com validações adicionais, interface gráfica ou persistência de dados.
 
+
 ---
 
 ## 🤝 Contribuições
 
 Sinta-se à vontade para fazer melhorias ou relatar problemas.
+
 
 
 ✨ Desenvolvido por Laura Nery ✨
