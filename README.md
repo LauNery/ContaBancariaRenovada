@@ -39,7 +39,7 @@ Inclui diferentes tipos de contas: **Conta Corrente** e **Conta Poupança**, com
 
 ## 🤝 Contribuições
 
-Sinta-se à vontade para fazer melhorias ou relatar problemas.
+Sinta-se à vontade para sugestões de melhorias ou relatar problemas ao projeto.
 
 
 ---
