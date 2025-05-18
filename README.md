@@ -1,4 +1,4 @@
-# ✨🌟 Projeto de Contas Bancárias 🌟✨
+# ✨🌟 Projeto Conta Bancária 🌟✨
 
 ---
 
